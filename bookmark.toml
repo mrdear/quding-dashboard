@@ -41,6 +41,11 @@ sort=1
     name='古典配色'
     favicon='//cdn.mrdear.cn/default/cow-min.png'
     desc='古典配色指南'
+    [[tools.sites]]
+    url='https://favicon.link/'
+    name='Favicon'
+    favicon='https://favicon.link/favicon.link'
+    desc='favicon抓取'
 
 [blog]
 name='订阅'
@@ -213,3 +218,11 @@ sort=4
     name='BT之家'
     favicon='//cdn.mrdear.cn/default/monkey-min.png'
     desc='BT之家'
+
+[other]
+name='其他'
+sort=5
+ [[other.sites]]
+    url='https://bwh1.net/cart.php?a=add&pid=27'
+    name='搬瓦工'
+    desc='VPS'
