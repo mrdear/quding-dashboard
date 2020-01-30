@@ -2,11 +2,6 @@
 name='工具'
 sort=1
     [[tools.sites]]
-    url='https://www.666email.com'
-    name='666Email'
-    favicon='//cdn.mrdear.cn/default/dragon-min.png'
-    desc='10分钟邮箱'
-    [[tools.sites]]
     url='https://haveibeenpwned.com'
     name='社工库'
     favicon='https://haveibeenpwned.com/Content/Images/PasswordManager/1PasswordLogo.svg'
@@ -50,11 +45,6 @@ sort=1
 [blog]
 name='订阅'
 sort=2
-    [[blog.sites]]
-    url='http://tech.lede.com'
-    name='网易乐得技术团队'
-    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
-    desc='网易乐得技术分享'
     [[blog.sites]]
     url='https://tech.meituan.com'
     name='美团技术团队'
