@@ -1,3 +1,14 @@
+[iframe-tools]
+name='内嵌工具'
+sort=0
+    [[iframe-tools.sites]]
+    url='http://tools.mrdear.cn/tools/json-convert'
+    name='JSON转其他'
+    favicon='http://start.mrdear.cn/favicon.ico'
+    desc='JSON转TOML,YAML'
+    openType='iframe'
+    config.iframe-style='min-height:1000px'
+
 [tools]
 name='工具'
 sort=1
