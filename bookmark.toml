@@ -203,9 +203,19 @@ sort=3
     favicon='//cdn-1251403103.file.myqcloud.com/default/snake-min.png'
     desc='数码资讯社区'
 
+[developer]
+name='开发'
+sort=4
+    [[developer.sites]]
+        url='https://blog.jetbrains.com/platform/'
+        favicon='https://cdn-1251403103.file.myqcloud.com/blog.jetbrains.com/16'
+        name='Jetbrains Blog'
+        desc='Jetbrains咨询'
+
+
 [resource]
 name='资源'
-sort=4
+sort=5
     [[resource.sites]]
     url='https://www.yunpanjingling.com'
     name='云盘精灵'
@@ -234,7 +244,7 @@ sort=4
 
 [other]
 name='其他'
-sort=5
+sort=666
  [[other.sites]]
     url='https://bwh1.net/cart.php?a=add&pid=27'
     name='搬瓦工'
