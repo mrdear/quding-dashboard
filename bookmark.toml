@@ -2,14 +2,14 @@
 name='内嵌工具'
 sort=0
     [[iframe-tools.sites]]
-    url='http://tools.mrdear.cn/tools/json-convert?iframe'
+    url='http://tools.jtool.top/tools/json-convert?iframe'
     name='JSON转其他'
     favicon='https://jtool.top/favicon.ico'
     desc='JSON转TOML,YAML'
     openType='iframe'
     config.iframe-style='min-height:1000px'
     [[iframe-tools.sites]]
-    url='http://tools.mrdear.cn/tools/diff?iframe'
+    url='http://tools.jtool.top/tools/diff?iframe'
     name='文本差异'
     favicon='https://jtool.top/favicon.ico'
     desc='文本差异对比'
