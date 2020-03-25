@@ -202,6 +202,21 @@ sort=3
     name='数字尾巴'
     favicon='//cdn-1251403103.file.myqcloud.com/default/snake-min.png'
     desc='数码资讯社区'
+    [[forum.sites]]
+    url='https://creatorsdaily.com/'
+    name='创造者日报'
+    favicon='//cdn-1251403103.file.myqcloud.com/creatorsdaily.com/16'
+    desc='每日一个产品'
+    [[forum.sites]]
+    url='https://eleduck.com/'
+    name='电鸭社区'
+    favicon='//cdn-1251403103.file.myqcloud.com/eleduck.com/16'
+    desc='远程工作社区'
+    [[forum.sites]]
+    url='https://indiehackers.net/'
+    name='独立开发者'
+    favicon='//cdn-1251403103.file.myqcloud.com/indiehackers.net/16'
+    desc='独立开发者社区'
 
 [developer]
 name='开发'
