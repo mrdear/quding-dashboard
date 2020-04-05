@@ -218,7 +218,7 @@ sort=3
     favicon='//cdn-1251403103.file.myqcloud.com/indiehackers.net/16'
     desc='独立开发者社区'
     [[forum.sites]]
-    url='https://www.expreview.com/top/'
+    url='https://www.expreview.com/top'
     name='超能网'
     favicon='//cdn-1251403103.file.myqcloud.com/www.expreview.com/16'
     desc='评测媒体'
