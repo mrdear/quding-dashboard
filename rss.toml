@@ -1,0 +1,12 @@
+[blog]
+name='博客'
+sort=1
+    [[blog.sites]]
+    url='https://mrdear.cn/atom.xml'
+    name='屈定的blog'
+[itNews]
+name='IT咨询'
+sort=2
+    [[itNews.sites]]
+    url='https://sspai.com/feed'
+    name='少数派'
