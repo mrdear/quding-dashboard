@@ -9,4 +9,11 @@ name='IT咨询'
 sort=2
     [[itNews.sites]]
     url='https://sspai.com/feed'
+    favicon='https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico'
     name='少数派'
+    [[itNews.sites]]
+    url='http://free.apprcn.com/category/ios/feed/'
+    name='反斗IOS限免'
+    [[itNews.sites]]
+    url='http://free.apprcn.com/category/mac/feed/'
+    name='反斗MAC限免'

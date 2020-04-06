@@ -143,6 +143,7 @@ sort=3
     [[forum.sites]]
     url='https://sspai.com/'
     name='少数派'
+    favicon='https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico'
     desc='苹果派'
     [[forum.sites]]
     url='http://free.apprcn.com/'
