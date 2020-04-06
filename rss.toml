@@ -10,9 +10,6 @@ sort=1
     [[blog.sites]]
     url='https://draveness.me/feed.xml'
     name='面向信仰编程'
-    [[blog.sites]]
-    url='http://vitrun.github.io/feed.xml'
-    name='小志'
 [itNews]
 name='IT资讯'
 sort=2
