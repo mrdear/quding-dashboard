@@ -193,6 +193,10 @@ sort=4
         url='https://blog.jetbrains.com/platform/'
         name='Jetbrains Blog'
         desc='Jetbrains咨询'
+    [[developer.sites]]
+        url='https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started.html'
+        name='Jetbrains Plugin'
+        desc='Plugin Develop'
 
 
 [resource]
