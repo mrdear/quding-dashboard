@@ -15,7 +15,7 @@ sort=1
     favicon='https://cdn-1251403103.file.myqcloud.com/tech.meituan.com/32'
     name='美团技术博客'
     [[blog.sites]]
-    url=' https://rsshub.ioiox.com/blogs/wangyin'
+    url='https://rsshub.ioiox.com/blogs/wangyin'
     favicon='https://www.yinwang.org/images/Yc.jpg'
     name='王垠博客'
 [itNews]
