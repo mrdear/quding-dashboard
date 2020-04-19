@@ -10,6 +10,14 @@ sort=1
     [[blog.sites]]
     url='https://draveness.me/feed.xml'
     name='面向信仰编程'
+    [[blog.sites]]
+    url='https://rsshub.ioiox.com/meituan/tech/home'
+    favicon='https://cdn-1251403103.file.myqcloud.com/tech.meituan.com/32'
+    name='美团技术博客'
+    [[blog.sites]]
+    url=' https://rsshub.ioiox.com/blogs/wangyin'
+    favicon='https://www.yinwang.org/images/Yc.jpg'
+    name='王垠博客'
 [itNews]
 name='IT资讯'
 sort=2
