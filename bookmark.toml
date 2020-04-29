@@ -120,6 +120,10 @@ sort=2
     url='https://draveness.me/'
     name='面向信仰编程'
     desc='draveness'
+    [[blog.sites]]
+    url='http://www.mybatis.cn/'
+    name='mybatis中文网'
+    desc='mybatis'
 
 [forum]
 name='资讯'

@@ -18,6 +18,9 @@ sort=1
     url='https://rsshub.ioiox.com/blogs/wangyin'
     favicon='https://www.yinwang.org/images/Yc.jpg'
     name='王垠博客'
+    [[blog.sites]]
+    url='http://www.mybatis.cn/feed'
+    name='mybatis中文网'
 [itNews]
 name='IT资讯'
 sort=2
