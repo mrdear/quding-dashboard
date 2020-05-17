@@ -226,6 +226,14 @@ sort=5
     url='http://www.btbtt.me/'
     name='BT之家'
     desc='BT之家'
+    [[resource.sites]]
+    url='http://www.rrys.tv/'
+    name='人人影视'
+    desc='人人影视'
+    [[resource.sites]]
+    url='https://docs.rsshub.app'
+    name='RSSHub'
+    desc='大佬的RSSHub'
 
 [other]
 name='其他'
