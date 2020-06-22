@@ -205,6 +205,10 @@ sort=4
         url='https://www.8btc.com/book'
         name='巴比特'
         desc='巴比特图书'
+    [[developer.sites]]
+        url='https://db-engines.com/en/ranking'
+        name='DB排名'
+        desc='DB排名'
 
 
 [resource]
