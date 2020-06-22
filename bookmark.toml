@@ -211,6 +211,10 @@ sort=4
 name='资源'
 sort=5
     [[resource.sites]]
+    url='https://weread.qq.com/'
+    name='微信读书'
+    desc='微信读书'
+    [[resource.sites]]
     url='https://www.yunpanjingling.com'
     name='云盘精灵'
     desc='百度云资源'
