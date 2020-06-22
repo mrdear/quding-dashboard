@@ -209,6 +209,9 @@ sort=4
         url='https://db-engines.com/en/ranking'
         name='DB排名'
         desc='DB排名'
+    [[developer.sites]]
+        url='https://mirrors.cloud.tencent.com/'
+        name='腾讯云开源镜像'
 
 
 [resource]
