@@ -258,6 +258,14 @@ sort=666
     name='搬瓦工'
     desc='VPS'
  [[other.sites]]
+    url='https://jinkela.pw'
+    name='金坷垃'
+    desc='VPS'
+ [[other.sites]]
+    url='https://github.com/layonhands/jinkela'
+    name='金坷垃备份'
+    desc='VPS'
+ [[other.sites]]
     url='https://www.vultr.com/'
     name='Vultr'
     desc='Vultr'
