@@ -1,21 +1,3 @@
-[iframe-tools]
-name='内嵌工具'
-sort=0
-    [[iframe-tools.sites]]
-    url='http://tools.jtool.top/tools/json-convert?iframe'
-    name='JSON转其他'
-    favicon='https://jtool.top/favicon.ico'
-    desc='JSON转TOML,YAML'
-    openType='iframe'
-    config.iframe-style='min-height:1000px'
-    [[iframe-tools.sites]]
-    url='http://tools.jtool.top/tools/diff?iframe'
-    name='文本差异'
-    favicon='https://jtool.top/favicon.ico'
-    desc='文本差异对比'
-    openType='iframe'
-    config.iframe-style='min-height:1000px'
-
 [tools]
 name='工具'
 sort=1
@@ -213,10 +195,21 @@ sort=4
         url='https://mirrors.cloud.tencent.com/'
         name='腾讯云开源镜像'
 
+[design]
+name='设计'
+sort=5
+    [[design.sites]]
+    url='https://www.pinterest.com/'
+    name='pinterest'
+    desc='pinterest'
+    [[design.sites]]
+    url='https://www.maliquankai.com/'
+    name='maliquankai'
+    desc='码力全开设计站'
 
 [resource]
 name='资源'
-sort=5
+sort=6
     [[resource.sites]]
     url='https://weread.qq.com/'
     name='微信读书'
