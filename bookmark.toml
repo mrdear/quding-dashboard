@@ -106,6 +106,10 @@ sort=2
     url='http://www.mybatis.cn/'
     name='mybatis中文网'
     desc='mybatis'
+    [[blog.sites]]
+    url='https://www.throwable.club'
+    name='throwable'
+    desc='java'
 
 [forum]
 name='资讯'
