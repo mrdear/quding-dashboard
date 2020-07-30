@@ -24,6 +24,9 @@ sort=1
     [[blog.sites]]
     url='https://www.throwable.club/atom.xml'
     name='throwable个人博客'
+    [[blog.sites]]
+    url='https://www.elastic.co/cn/blog/feed'
+    name='ES博客'
 [itNews]
 name='IT资讯'
 sort=2
