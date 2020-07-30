@@ -243,9 +243,13 @@ sort=6
     name='人人影视'
     desc='人人影视'
     [[resource.sites]]
-    url='https://docs.rsshub.app'
+    url='https://rsshub.ioiox.com'
     name='RSSHub'
     desc='大佬的RSSHub'
+    [[resource.sites]]
+    url='https://yabook.org'
+    name='电子书'
+    desc='电子书网站'
 
 [other]
 name='其他'

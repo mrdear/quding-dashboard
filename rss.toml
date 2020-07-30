@@ -47,3 +47,12 @@ sort=2
     [[itNews.sites]]
     url='http://free.apprcn.com/category/mac/feed/'
     name='反斗MAC限免'
+    [[itNews.sites]]
+    url='https://www.oschina.net/news/rss?show=project'
+    name='软件更新'
+[resources]
+name='资源'
+sort=3
+    [[resources.sites]]
+    url='https://yabook.org/feed.php'
+    name='yabook'
