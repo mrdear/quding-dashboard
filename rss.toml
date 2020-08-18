@@ -53,9 +53,21 @@ sort=2
     [[itNews.sites]]
     url='https://www.oschina.net/news/rss?show=project'
     name='软件更新'
+    [[itNews.sites]]
+    url='https://rsshub.app/smzdm/haowen/fenlei/jiayongdianqi'
+    name='ZDM-电器'
+    [[itNews.sites]]
+    url='https://rsshub.app/smzdm/haowen/fenlei/diannaoshuma'
+    name='ZDM-数码'
 [resources]
 name='资源'
 sort=3
     [[resources.sites]]
     url='https://yabook.org/feed.php'
     name='yabook'
+    [[resources.sites]]
+    url='https://rsshub.app/ddrk/index'
+    name='低端影视'
+    [[resources.sites]]
+    url='https://creatorsdaily.com/api/rss'
+    name='创造者日报'
