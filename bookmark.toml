@@ -250,6 +250,10 @@ sort=6
     url='https://yabook.org'
     name='电子书'
     desc='电子书网站'
+    [[resource.sites]]
+    url='http://www.mvcat.com/'
+    name='电影全网搜'
+    desc='电影全网搜'
 
 [other]
 name='其他'
