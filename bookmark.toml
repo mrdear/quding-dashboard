@@ -251,6 +251,10 @@ sort=6
     name='电子书'
     desc='电子书网站'
     [[resource.sites]]
+    url='http://www.lingocn.com/'
+    name='电子书2'
+    desc='电子书网站2'
+    [[resource.sites]]
     url='http://www.mvcat.com/'
     name='电影全网搜'
     desc='电影全网搜'
