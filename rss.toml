@@ -66,8 +66,5 @@ sort=3
     url='https://yabook.org/feed.php'
     name='yabook'
     [[resources.sites]]
-    url='https://rsshub.ioiox.com/ddrk/index'
-    name='低端影视'
-    [[resources.sites]]
     url='https://creatorsdaily.com/api/rss'
     name='创造者日报'
