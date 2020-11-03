@@ -258,6 +258,10 @@ sort=6
     url='http://www.mvcat.com/'
     name='电影全网搜'
     desc='电影全网搜'
+    [[resource.sites]]
+    url='https://ifish.fun/music/daily'
+    name='鱼声音乐'
+    desc='鱼声音乐'
 
 [other]
 name='其他'
