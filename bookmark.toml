@@ -47,10 +47,6 @@ sort=2
     name='美团技术团队'
     desc='美团技术分享'
     [[blog.sites]]
-    url='http://vitrun.github.io'
-    name='Food for Thought'
-    desc='小志'
-    [[blog.sites]]
     url='https://blog.alswl.com'
     name='Log4D'
     desc='3D'
@@ -67,33 +63,17 @@ sort=2
     name='横云断岭'
     desc='阿里-断岭'
     [[blog.sites]]
-    url='http://hedengcheng.com'
-    name='何登成的技术博客'
-    desc='阿里DBA主管'
-    [[blog.sites]]
     url='http://www.guxingke.com'
     name='孤星可'
     desc='堆糖小k'
-    [[blog.sites]]
-    url='https://www.flysnow.org'
-    name='飞雪无情的博客'
-    desc='Go实战笔记作者'
     [[blog.sites]]
     url='https://skyao.io/'
     name='敖小剑'
     desc='Service Mesh布道师'
     [[blog.sites]]
-    url='https://hongjiang.info/'
-    name='宏江大佬'
-    desc='挖财-宏江'
-    [[blog.sites]]
     url='http://tech.dianwoda.com/'
     name='点我达'
     desc='点我达技术博客'
-    [[blog.sites]]
-    url='https://tech.songxiaocai.com/posts/index.html/'
-    name='宋小菜'
-    desc='宋小菜技术博客'
     [[blog.sites]]
     url='https://www.yumingyuan.me/'
     name='鱼头的博客'
@@ -102,10 +82,6 @@ sort=2
     url='https://draveness.me/'
     name='面向信仰编程'
     desc='draveness'
-    [[blog.sites]]
-    url='http://www.mybatis.cn/'
-    name='mybatis中文网'
-    desc='mybatis'
     [[blog.sites]]
     url='https://www.throwable.club'
     name='throwable'

@@ -45,26 +45,14 @@ sort=2
     favicon='https://cdn-1251403103.file.myqcloud.com/www.iplaysoft.com/32'
     name='异次元软件'
     [[itNews.sites]]
-    url='http://free.apprcn.com/category/ios/feed/'
-    name='反斗IOS限免'
-    [[itNews.sites]]
-    url='http://free.apprcn.com/category/mac/feed/'
-    name='反斗MAC限免'
-    [[itNews.sites]]
     url='https://www.oschina.net/news/rss?show=project'
     name='软件更新'
-    [[itNews.sites]]
-    url='https://rsshub.ioiox.com/smzdm/haowen/fenlei/jiayongdianqi'
-    name='ZDM-电器'
     [[itNews.sites]]
     url='https://rsshub.ioiox.com/smzdm/haowen/fenlei/diannaoshuma'
     name='ZDM-数码'
 [resources]
 name='资源'
 sort=3
-    [[resources.sites]]
-    url='https://yabook.org/feed.php'
-    name='yabook'
     [[resources.sites]]
     url='https://creatorsdaily.com/api/rss'
     name='创造者日报'
