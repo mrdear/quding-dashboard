@@ -1,3 +1,11 @@
+[recent]
+name='常用'
+sort=0
+    [[recent.sites]]
+    url='https://jinkela.pw'
+    name='签到-金坷垃'
+    desc='VPS'
+
 [tools]
 name='工具'
 sort=1
@@ -245,10 +253,6 @@ sort=666
  [[other.sites]]
     url='https://bwh1.net/cart.php?a=add&pid=27'
     name='搬瓦工'
-    desc='VPS'
- [[other.sites]]
-    url='https://jinkela.pw'
-    name='金坷垃'
     desc='VPS'
  [[other.sites]]
     url='https://github.com/layonhands/jinkela'
