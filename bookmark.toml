@@ -3,8 +3,8 @@ name='常用'
 sort=0
     [[recent.sites]]
     url='https://jinkela.pw'
-    name='签到-金坷垃'
-    desc='VPS'
+    name='金坷垃'
+    desc='签到-VPS'
 
 [tools]
 name='工具'
