@@ -5,6 +5,11 @@ sort=0
     url='https://jinkela.pw'
     name='金坷垃'
     desc='签到-VPS'
+    [[recent.sites]]
+    url='dict'
+    name='词典'
+    openType='DICT'
+    desc='程序员单词'
 
 [tools]
 name='工具'
