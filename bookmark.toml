@@ -206,6 +206,10 @@ sort=5
     url='https://www.shejizhoukan.com/'
     name='设计周刊'
     desc='设计文章'
+    [[design.sites]]
+    url='https://www.uisdc.com/'
+    name='优设网'
+    desc='设计论坛'
 
 [resource]
 name='资源'
