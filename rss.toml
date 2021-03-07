@@ -50,6 +50,9 @@ sort=2
     [[itNews.sites]]
     url='https://rsshub.ioiox.com/smzdm/haowen/fenlei/diannaoshuma'
     name='ZDM-数码'
+    [[itNews.sites]]
+    url='https://36kr.com/feed'
+    name='35KR'
 [resources]
 name='资源'
 sort=3

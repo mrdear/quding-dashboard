@@ -43,11 +43,6 @@ sort=1
     name='古典配色'
     desc='古典配色指南'
     [[tools.sites]]
-    url='https://favicon.link/'
-    name='Favicon'
-    favicon='https://favicon.link/favicon.link'
-    desc='favicon抓取'
-    [[tools.sites]]
     url='https://h5-ocapp.onethingpcs.com/vPages/webapp/#/tasks/'
     name='玩客云'
     desc='玩客云网页'
@@ -164,6 +159,10 @@ sort=3
     url='https://www.expreview.com/top'
     name='超能网'
     desc='评测媒体'
+    [[forum.sites]]
+    url='https://36kr.com/'
+    name='36kr'
+    desc='科技新闻'
 
 [developer]
 name='开发'
@@ -199,6 +198,14 @@ sort=5
     url='https://www.maliquankai.com/'
     name='maliquankai'
     desc='码力全开设计站'
+    [[design.sites]]
+    url='https://www.ziticangku.com/'
+    name='字体仓库'
+    desc='免费商用字体'
+    [[design.sites]]
+    url='https://www.shejizhoukan.com/'
+    name='设计周刊'
+    desc='设计文章'
 
 [resource]
 name='资源'
