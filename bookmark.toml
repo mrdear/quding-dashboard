@@ -227,10 +227,6 @@ sort=6
     name='低端影视'
     desc='高清电影在线'
     [[resource.sites]]
-    url='https://www.sq688.com/'
-    name='无损音乐'
-    desc='无损音乐下载'
-    [[resource.sites]]
     url='https://unsplash.com/'
     name='unsplash'
     desc='壁纸'
