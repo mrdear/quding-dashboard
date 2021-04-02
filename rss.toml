@@ -27,6 +27,9 @@ sort=1
     [[blog.sites]]
     url='https://www.elastic.co/cn/blog/feed'
     name='ES博客'
+    [[blog.sites]]
+    url='https://rsshub.app/infoq/recommend'
+    name='infoq推荐'
 [itNews]
 name='IT资讯'
 sort=2
